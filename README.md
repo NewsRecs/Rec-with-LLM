@@ -62,12 +62,12 @@
 ## 폴더 설명
 ### data
 
-- **user data 및 behaviors data가 담긴 폴더**
+- user data 및 behaviors data가 담긴 폴더
 
     
 ### gpt_finetuning_data
 
-- **GPT API Fine-tuning에 사용할 JSONL 파일이 담긴 폴더**
+- GPT API Fine-tuning에 사용할 JSONL 파일이 담긴 폴더
 
 
 ### result
