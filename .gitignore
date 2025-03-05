@@ -1,0 +1,16 @@
+Preliminary_experiment/idea/prompts/
+Preliminary_experiment/idea/results/
+Preliminary_experiment/idea/gpt_finetuning_data/
+Preliminary_experiment/idea/data/
+
+Preliminary_experiment/data/
+
+Preliminary_experiment/idea/.env
+Preliminary_experiment/idea/exam.ipynb
+Preliminary_experiment/idea/exam2.ipynb
+
+Preliminary_experiment/NNR/Adressa_5w/
+Preliminary_experiment/NNR/checkpoint/
+Preliminary_experiment/NNR/experiment_data/
+Preliminary_experiment/NNR/glove/
+Preliminary_experiment/NNR/results/
